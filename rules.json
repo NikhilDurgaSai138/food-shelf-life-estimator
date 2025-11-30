@@ -1,0 +1,4471 @@
+{
+  "foods": {
+    "Chicken (raw)": {
+      "type": "raw_meat",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Chicken curry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Chicken biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Chicken fry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Grilled Chicken": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Chicken kebab": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mutton (raw)": {
+      "type": "raw_meat",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Mutton curry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mutton biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mutton fry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Grilled Mutton": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mutton kebab": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Goat (raw)": {
+      "type": "raw_meat",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Goat curry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Goat biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Goat fry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Grilled Goat": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Goat kebab": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beef (raw)": {
+      "type": "raw_meat",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Beef curry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beef biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beef fry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Grilled Beef": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beef kebab": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Pork (raw)": {
+      "type": "raw_meat",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Pork curry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Pork biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Pork fry": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Grilled Pork": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Pork kebab": {
+      "type": "cooked_meat",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Fish (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Fish curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Fish fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Fish biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Rohu fish (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Rohu fish curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Rohu fish fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Rohu fish biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Hilsa fish (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Hilsa fish curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Hilsa fish fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Hilsa fish biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Pomfret (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Pomfret curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Pomfret fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Pomfret biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Salmon (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Salmon curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Salmon fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Salmon biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Tuna (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Tuna curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Tuna fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Tuna biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mackerel (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Mackerel curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Mackerel fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Mackerel biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Prawns (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Prawns curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Prawns fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Prawns biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Shrimp (raw)": {
+      "type": "raw_fish",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 2,
+          "fridge": 24,
+          "freezer": 720
+        }
+      }
+    },
+    "Shrimp curry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Shrimp fry": {
+      "type": "cooked_fish",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 48,
+          "freezer": 720
+        }
+      }
+    },
+    "Shrimp biryani": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Egg (raw in shell)": {
+      "type": "egg_raw",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 168,
+          "fridge": 504
+        }
+      }
+    },
+    "Boiled egg": {
+      "type": "egg_cooked",
+      "states": [
+        "boiled",
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "boiled": {
+          "room": 8,
+          "fridge": 168
+        },
+        "cooked": {
+          "room": 6,
+          "fridge": 72
+        }
+      }
+    },
+    "Scrambled eggs": {
+      "type": "egg_cooked",
+      "states": [
+        "boiled",
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "boiled": {
+          "room": 8,
+          "fridge": 168
+        },
+        "cooked": {
+          "room": 6,
+          "fridge": 72
+        }
+      }
+    },
+    "Omelette": {
+      "type": "egg_cooked",
+      "states": [
+        "boiled",
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "boiled": {
+          "room": 8,
+          "fridge": 168
+        },
+        "cooked": {
+          "room": 6,
+          "fridge": 72
+        }
+      }
+    },
+    "Milk (pasteurised)": {
+      "type": "milk",
+      "states": [
+        "pasteurised",
+        "UHT"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pasteurised": {
+          "room": 6,
+          "fridge": 72
+        },
+        "UHT": {
+          "room": 720,
+          "fridge": 168
+        }
+      }
+    },
+    "Milk (UHT pack)": {
+      "type": "milk",
+      "states": [
+        "pasteurised",
+        "UHT"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pasteurised": {
+          "room": 6,
+          "fridge": 72
+        },
+        "UHT": {
+          "room": 720,
+          "fridge": 168
+        }
+      }
+    },
+    "Homemade curd / yogurt": {
+      "type": "yogurt",
+      "states": [
+        "fermented"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fermented": {
+          "room": 12,
+          "fridge": 336
+        }
+      }
+    },
+    "Store-bought yogurt": {
+      "type": "yogurt",
+      "states": [
+        "fermented"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fermented": {
+          "room": 12,
+          "fridge": 336
+        }
+      }
+    },
+    "Paneer (fresh)": {
+      "type": "soft_cheese",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "fridge": 240
+        }
+      }
+    },
+    "Tofu (fresh)": {
+      "type": "soft_cheese",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "fridge": 240
+        }
+      }
+    },
+    "Mozzarella cheese": {
+      "type": "soft_cheese",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "fridge": 240
+        }
+      }
+    },
+    "Cheddar cheese": {
+      "type": "hard_cheese",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "fridge": 7200
+        }
+      }
+    },
+    "Parmesan cheese": {
+      "type": "hard_cheese",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "fridge": 7200
+        }
+      }
+    },
+    "Spinach (raw)": {
+      "type": "raw_veg_leafy",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Spinach curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Coriander leaves (raw)": {
+      "type": "raw_veg_leafy",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Coriander leaves curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Fenugreek leaves (raw)": {
+      "type": "raw_veg_leafy",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Fenugreek leaves curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Lettuce (raw)": {
+      "type": "raw_veg_leafy",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Lettuce curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mint leaves (raw)": {
+      "type": "raw_veg_leafy",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Mint leaves curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Amaranth leaves (raw)": {
+      "type": "raw_veg_leafy",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Amaranth leaves curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Potato (raw)": {
+      "type": "raw_veg_root",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 336,
+          "fridge": 720
+        }
+      }
+    },
+    "Potato curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Potato fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mashed Potato": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Carrot (raw)": {
+      "type": "raw_veg_root",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 336,
+          "fridge": 720
+        }
+      }
+    },
+    "Carrot curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Carrot fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mashed Carrot": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beetroot (raw)": {
+      "type": "raw_veg_root",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 336,
+          "fridge": 720
+        }
+      }
+    },
+    "Beetroot curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beetroot fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mashed Beetroot": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Radish (raw)": {
+      "type": "raw_veg_root",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 336,
+          "fridge": 720
+        }
+      }
+    },
+    "Radish curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Radish fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mashed Radish": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Turnip (raw)": {
+      "type": "raw_veg_root",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 336,
+          "fridge": 720
+        }
+      }
+    },
+    "Turnip curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Turnip fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mashed Turnip": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Sweet potato (raw)": {
+      "type": "raw_veg_root",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 336,
+          "fridge": 720
+        }
+      }
+    },
+    "Sweet potato curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Sweet potato fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Mashed Sweet potato": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Tomato (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Tomato curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Tomato fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Onion (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Onion curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Onion fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Capsicum (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Capsicum curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Capsicum fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Brinjal (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Brinjal curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Brinjal fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Bottle gourd (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Bottle gourd curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Bottle gourd fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Bitter gourd (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Bitter gourd curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Bitter gourd fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Cabbage (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Cabbage curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Cabbage fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Cauliflower (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Cauliflower curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Cauliflower fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Okra (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Okra curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Okra fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beans (raw)": {
+      "type": "raw_veg_other",
+      "states": [
+        "raw"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "raw": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Beans curry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Beans fry": {
+      "type": "cooked_veg_grain",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Apple (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Apple (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Banana (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Banana (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Mango (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Mango (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Papaya (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Papaya (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Orange (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Orange (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Grapes (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Grapes (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Pomegranate (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Pomegranate (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Pear (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Pear (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Pineapple (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Pineapple (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Watermelon (ripe)": {
+      "type": "raw_fruit_ripe",
+      "states": [
+        "ripe"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "ripe": {
+          "room": 72,
+          "fridge": 168
+        }
+      }
+    },
+    "Watermelon (unripe)": {
+      "type": "raw_fruit_unripe",
+      "states": [
+        "unripe"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "unripe": {
+          "room": 240
+        }
+      }
+    },
+    "Idli": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Dosa": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Vada": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Upma": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Poha": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Pongal": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Pesarattu": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Chapati": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Paratha": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Puri": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Thepla": {
+      "type": "indian_breakfast",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 48
+        }
+      }
+    },
+    "Cooked rice (plain)": {
+      "type": "rice_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Lemon rice": {
+      "type": "rice_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Curd rice": {
+      "type": "rice_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Fried rice (veg)": {
+      "type": "rice_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Fried rice (egg)": {
+      "type": "rice_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 6,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Plain dal": {
+      "type": "dal_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 8,
+          "fridge": 96,
+          "freezer": 720
+        }
+      }
+    },
+    "Dal tadka": {
+      "type": "dal_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 8,
+          "fridge": 96,
+          "freezer": 720
+        }
+      }
+    },
+    "Sambar": {
+      "type": "dal_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 8,
+          "fridge": 96,
+          "freezer": 720
+        }
+      }
+    },
+    "Rasam": {
+      "type": "dal_cooked",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 8,
+          "fridge": 96,
+          "freezer": 720
+        }
+      }
+    },
+    "Veg thali": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Non-veg thali": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "North Indian thali": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "South Indian meals": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "Bisi bele bath": {
+      "type": "cooked_mixed_meal",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 4,
+          "fridge": 72,
+          "freezer": 720
+        }
+      }
+    },
+    "White bread (sliced)": {
+      "type": "bread",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 72,
+          "fridge": 336
+        }
+      }
+    },
+    "Brown bread (sliced)": {
+      "type": "bread",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 72,
+          "fridge": 336
+        }
+      }
+    },
+    "Burger bun": {
+      "type": "bread",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 72,
+          "fridge": 336
+        }
+      }
+    },
+    "Pav bread": {
+      "type": "bread",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 72,
+          "fridge": 336
+        }
+      }
+    },
+    "Plain cake": {
+      "type": "bakery_cake",
+      "states": [
+        "baked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "baked": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Chocolate cake": {
+      "type": "bakery_cake",
+      "states": [
+        "baked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "baked": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Fruit cake": {
+      "type": "bakery_cake",
+      "states": [
+        "baked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "baked": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Sponge cake": {
+      "type": "bakery_cake",
+      "states": [
+        "baked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "baked": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Tea cake": {
+      "type": "bakery_cake",
+      "states": [
+        "baked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "baked": {
+          "room": 72,
+          "fridge": 240
+        }
+      }
+    },
+    "Samosa": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Kachori": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Pakora": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Bhajiya": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Cutlet": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Aloo tikki": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "French fries": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Onion rings": {
+      "type": "fried_snack",
+      "states": [
+        "fried"
+      ],
+      "storages": [
+        "freezer",
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fried": {
+          "room": 8,
+          "fridge": 48,
+          "freezer": 360
+        }
+      }
+    },
+    "Gulab jamun": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Rasgulla": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Rasmalai": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Kheer": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Payasam": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Mysore pak": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Laddu": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Barfi": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Jalebi": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Imarti": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Peda": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Sandesh": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Kaju katli": {
+      "type": "sweet_milk_based",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 24,
+          "fridge": 120
+        }
+      }
+    },
+    "Chikki": {
+      "type": "sweet_dry",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 168,
+          "fridge": 720
+        }
+      }
+    },
+    "Dry fruit laddu": {
+      "type": "sweet_dry",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 168,
+          "fridge": 720
+        }
+      }
+    },
+    "Soan papdi": {
+      "type": "sweet_dry",
+      "states": [
+        "cooked"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "cooked": {
+          "room": 168,
+          "fridge": 720
+        }
+      }
+    },
+    "Mango pickle (oil)": {
+      "type": "pickle_oil",
+      "states": [
+        "pickled"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pickled": {
+          "room": 7200
+        }
+      }
+    },
+    "Lime pickle (oil)": {
+      "type": "pickle_oil",
+      "states": [
+        "pickled"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pickled": {
+          "room": 7200
+        }
+      }
+    },
+    "Mixed vegetable pickle (oil)": {
+      "type": "pickle_oil",
+      "states": [
+        "pickled"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pickled": {
+          "room": 7200
+        }
+      }
+    },
+    "Ginger pickle (brine)": {
+      "type": "pickle_brine",
+      "states": [
+        "pickled"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pickled": {
+          "room": 3600
+        }
+      }
+    },
+    "Chilli pickle (brine)": {
+      "type": "pickle_brine",
+      "states": [
+        "pickled"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "pickled": {
+          "room": 3600
+        }
+      }
+    },
+    "Turmeric powder": {
+      "type": "dry_spice",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 87600
+        }
+      }
+    },
+    "Red chilli powder": {
+      "type": "dry_spice",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 87600
+        }
+      }
+    },
+    "Coriander powder": {
+      "type": "dry_spice",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 87600
+        }
+      }
+    },
+    "Garam masala": {
+      "type": "dry_spice",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 87600
+        }
+      }
+    },
+    "Cumin seeds": {
+      "type": "dry_spice",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 87600
+        }
+      }
+    },
+    "Mustard seeds": {
+      "type": "dry_spice",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 87600
+        }
+      }
+    },
+    "Raw rice": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Wheat grain": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Wheat flour": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Rava / suji": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Poha (dry)": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Sabudana": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Dry lentils mix": {
+      "type": "dry_grain",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 43200
+        }
+      }
+    },
+    "Fresh fruit juice": {
+      "type": "beverage_fresh",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 12,
+          "fridge": 48
+        }
+      }
+    },
+    "Sugarcane juice": {
+      "type": "beverage_fresh",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 12,
+          "fridge": 48
+        }
+      }
+    },
+    "Tender coconut water": {
+      "type": "beverage_fresh",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 12,
+          "fridge": 48
+        }
+      }
+    },
+    "Buttermilk": {
+      "type": "beverage_fresh",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 12,
+          "fridge": 48
+        }
+      }
+    },
+    "Lassi": {
+      "type": "beverage_fresh",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 12,
+          "fridge": 48
+        }
+      }
+    },
+    "Milkshake": {
+      "type": "beverage_fresh",
+      "states": [
+        "fresh"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "fresh": {
+          "room": 12,
+          "fridge": 48
+        }
+      }
+    },
+    "Soft drink bottle": {
+      "type": "beverage_packaged",
+      "states": [
+        "sealed",
+        "opened"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "sealed": {
+          "room": 4320
+        },
+        "opened": {
+          "fridge": 168
+        }
+      }
+    },
+    "Packaged fruit juice": {
+      "type": "beverage_packaged",
+      "states": [
+        "sealed",
+        "opened"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "sealed": {
+          "room": 4320
+        },
+        "opened": {
+          "fridge": 168
+        }
+      }
+    },
+    "Packaged coconut water": {
+      "type": "beverage_packaged",
+      "states": [
+        "sealed",
+        "opened"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "sealed": {
+          "room": 4320
+        },
+        "opened": {
+          "fridge": 168
+        }
+      }
+    },
+    "Vanilla ice cream": {
+      "type": "icecream",
+      "states": [
+        "frozen"
+      ],
+      "storages": [
+        "freezer"
+      ],
+      "shelf_life_hours": {
+        "frozen": {
+          "freezer": 2160
+        }
+      }
+    },
+    "Chocolate ice cream": {
+      "type": "icecream",
+      "states": [
+        "frozen"
+      ],
+      "storages": [
+        "freezer"
+      ],
+      "shelf_life_hours": {
+        "frozen": {
+          "freezer": 2160
+        }
+      }
+    },
+    "Kulfi": {
+      "type": "icecream",
+      "states": [
+        "frozen"
+      ],
+      "storages": [
+        "freezer"
+      ],
+      "shelf_life_hours": {
+        "frozen": {
+          "freezer": 2160
+        }
+      }
+    },
+    "Ice cream tub family pack": {
+      "type": "icecream",
+      "states": [
+        "frozen"
+      ],
+      "storages": [
+        "freezer"
+      ],
+      "shelf_life_hours": {
+        "frozen": {
+          "freezer": 2160
+        }
+      }
+    },
+    "Almonds": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Cashews": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Walnuts": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Peanuts": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Pistachios": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Sunflower seeds": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Pumpkin seeds": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Flax seeds": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    },
+    "Chia seeds": {
+      "type": "nut_seed",
+      "states": [
+        "dried"
+      ],
+      "storages": [
+        "fridge",
+        "room"
+      ],
+      "shelf_life_hours": {
+        "dried": {
+          "room": 8760,
+          "fridge": 17520
+        }
+      }
+    }
+  },
+  "modifiers": {
+    "airtight_container": 1.15,
+    "vacuum_packed": 1.5,
+    "salt_marinade": 1.3,
+    "acidic_marinade": 1.15,
+    "deep_fried": 1.4,
+    "cut_into_pieces": 0.7,
+    "high_humidity": 0.8,
+    "low_humidity": 1.05,
+    "repeated_reheat": 0.4,
+    "dried_form": 2.0,
+    "high_sugar": 1.4,
+    "high_fat_oil": 1.2,
+    "smoked": 1.3,
+    "pickled_in_oil": 3.0,
+    "pickled_in_brine": 2.5,
+    "store_bought_preservatives": 2.0,
+    "opened_pack": 0.6,
+    "sealed_pack_unopened": 1.25,
+    "pressure_cooked": 1.3,
+    "frozen_soon_after_cooking": 1.1
+  },
+  "sensory_flags": {
+    "slimy": "Slimy or sticky texture",
+    "sour_smell": "Sour or unpleasant smell",
+    "visible_mold": "Visible mold growth",
+    "off_color": "Unusual or off color",
+    "swollen_pack": "Swollen or bulging pack",
+    "bubbling": "Bubbling or fizzing when not expected",
+    "gas_release_on_opening": "Gas released on opening sealed food",
+    "unusual_bitterness": "Unexpected bitter taste"
+  },
+  "notes": {
+    "disclaimer": "This tool provides conservative, rule-based shelf-life estimates for educational use. It does not replace professional food-safety judgement."
+  }
+}
